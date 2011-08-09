@@ -1,0 +1,18 @@
+Welcome to Shallot:
+
+This is a pretty much alpha release.
+
+You'll need:
+
+	PyAudioPlay
+	Cymbeline
+	(both available from StackWorks)
+	eyeD3
+	Either MySQL or SQLite and the appropiate Python bindings
+
+
+Setup directions:
+	Change the root of your music library:	
+		In shallot/LibScanner.py
+
+	
